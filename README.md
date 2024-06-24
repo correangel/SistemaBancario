@@ -193,21 +193,25 @@ celebrado con el que el debe de cumplir a cabalidad.
 <h5>* Servicio GPS: Monto añadido a la cuota de los clientes exclusivamente en créditos de vehículos.</h5>
 <h5>* Total Desembolso: Monto final que recibirá el cliente, en concepto del crédito solicitado.</h5>
 
+<!--
 <h2>¿Deseas probar la demo en vivo?</h2>
 
 
-<p>Se ha habilitado un espacio dentro de un hosting gratuito para efectuar pruebas de este sistema, por favor tome en cuenta que la velocidad de respuesta así como su ancho de banda y cantidad de usuarios se ve limitada al ser un hosting gratuito. Puede acceder a la demo en el siguiente enlace: http://cashmanha.unaux.com/ A continación se detallan los datos de acceso para ingresar (puede hacerlo por medio de su usuario único o correo electrónico)<br><br>
+<p>Se ha habilitado un espacio dentro de un hosting gratuito para efectuar pruebas de este sistema, por favor tome en cuenta que la velocidad de respuesta así como su ancho de banda y cantidad de usuarios se ve limitada al ser un hosting gratuito. Puede acceder a la demo en el siguiente enlace: https://cashmanha.helioho.st/ A continación se detallan los datos de acceso para ingresar (puede hacerlo por medio de su usuario único o correo electrónico)<br><br>
 <strong>Actualización: Se ha realizado la migración de la base de datos, hacia otro proveedor. Por lo cual se ha realizado una limpieza de la misma y restaurados los datos por defecto que se encuentran en los respectivos backup de este repositorio. Ahora los procesos tardan menos tiempo respecto al proveedor anterior.</strong>
+<br><br>
+<strong>Actualización Hosting: Se ha realizado la migración hacia otro proveedor de hosting, por lo cuál ahora la velocidad de transferencia de datos, carga y tráfico ha mejorado notablemente. Además de contar con un certificaco SSL y encriptación de todos los datos que se procesen dentro de la aplicación</strong>
 <br>
 <ul>
-  <li>Administrador: usuario = norma.boix | correo: normaboix@yahoo.es | clave: 123456789</li>
-  <li>Presidencia: usuario = ester.cuenca | correo: estercuenca@gmail.com | clave: 123456789</li>
-  <li>Gerencia: usuario = 	faustino.padron | correo: faustopadron@gmail.com | clave: 123456789</li>
-  <li>Atención al Cliente: usuario = 	marco.almagro | correo: marco111@gmail.com | clave: 123456789</li>
-  <li>Clientes: usuario = 	leonel.franco | correo: modificarcorreoreal@gmail.com | clave: 123456789</li>
+  <li>Administrador: usuario = francisco.salcedo | correo: franciscosalcedo@correo1.com| clave: 123456789</li>
+  <li>Presidencia: usuario = julio.cesar | correo: julio@correo2.com  | clave: 123456789</li>
+  <li>Gerencia: usuario = 	victor.jurado | correo: victor@correo3.com | clave: 123456789</li>
+  <li>Atención al Cliente: usuario = 	alicia.fernandez | correo: alicia@correo4.com | clave: 123456789</li>
+  <li>Clientes: usuario = 	leonel.franco | correo: leonel@correo6.com | clave: 123456789</li>
+  <li>Clientes: usuario = 	natalia.jazmin| correo: nathy@correo5.com | clave: 123456789</li>
   <li>Para la recepción de correos automáticos, debe establecer su correo real; de lo contrario lamentamos informarle que no podrá visualizar el contenido deseado.</li>
 </ul>Accesos validados dentro de la plataforma, por favor tome nota de cada uno de los roles de usuario asignados.</p>
-
+-->
 
 <h2>Modelo Entidad Relación (m-ER) Base de Datos</h2>
 
@@ -376,10 +380,20 @@ celebrado con el que el debe de cumplir a cabalidad.
 
 
 
-<h4>* Contrato generado automáticamente, según producto asociado créditos clientes</h4>
+<h4>* Contrato generado automáticamente, según producto asociado créditos clientes (Préstamos Hipotecarios)</h4>
 
 
 ![CopiaContratoHipoteca](https://user-images.githubusercontent.com/44457989/172271973-1dde6934-d271-45b4-877f-dd3814277318.png)
+
+<h4>* Contrato generado automáticamente, según producto asociado créditos clientes (Préstamos Personales)</h4>
+
+![CopiaContratoPersonales](https://user-images.githubusercontent.com/44457989/215891253-2fa76259-e87a-4284-b9d3-3e1452d73d59.png)
+
+<h4>* Contrato generado automáticamente, según producto asociado créditos clientes (Préstamos de Vehículos)</h4>
+
+![CopiaContratoVehiculos](https://user-images.githubusercontent.com/44457989/215891464-ec33c8cf-676b-4ce5-80df-822b55d3c69a.png)
+
+
 
 
 
